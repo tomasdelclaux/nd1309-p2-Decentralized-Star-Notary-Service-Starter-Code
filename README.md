@@ -5,7 +5,6 @@
 This Starter Code has already implemented the functionalities you implemented in the StarNotary (Version 2) exercise, and have comments in all the files you need to implement your tasks.
 
 
-
 ### Dependencies
 For this project, you will need to have:
 1. **Node and NPM** installed - NPM is distributed with [Node.js](https://www.npmjs.com/get-npm)
